@@ -19,3 +19,19 @@ h2 {
   font-weight: bold;
   text-align: center;
 }
+
+img {
+  margin: auto;
+  display: block;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold; text-align: center;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px; text-align: center;
+}
