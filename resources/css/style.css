@@ -5,9 +5,12 @@ h1 {
 }
 
 h4 {
-  font-family: Helvetica;
-  font-size: 18px;
   text-align: center;
+}
+
+h4 a {
+  margin: 0 auto; font-family: Helvetica;
+  font-size; 18px; color: aquamarine; text-align: center;
 }
 
 h2 {
